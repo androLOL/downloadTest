@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3547644761
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: eb445cd990af758a74151ff5d525703b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf49df6ed46714e4fbdac6c5d2f68b0b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/effectTest/effectTest3.prefab
+Dependencies:
+- D:/vvid_git/vvid-unity-cardplayer/Unity/Assets/StreamingAssets/AssetBundles/Android/_sharedeffectpack_1
