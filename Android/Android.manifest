@@ -1,19 +1,13 @@
 ManifestFileVersion: 0
-CRC: 2028963362
+CRC: 2968972645
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: _sharedeffectpack_1
+      Name: unityassetcardcontent
       Dependencies: {}
     Info_1:
-      Name: effecttest1
-      Dependencies:
-        Dependency_0: _sharedeffectpack_1
+      Name: unitydepthimagecardcontent
+      Dependencies: {}
     Info_2:
-      Name: effecttest2
-      Dependencies:
-        Dependency_0: _sharedeffectpack_1
-    Info_3:
-      Name: effecttest3
-      Dependencies:
-        Dependency_0: _sharedeffectpack_1
+      Name: unitysnowballcardcontent
+      Dependencies: {}

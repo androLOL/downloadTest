@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3715102268
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4c5ae3bc1987229531179f1d678bc96
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2f58ee7bdc4c1fbf75f1f421c7f95efd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: e4b5c913a459f074db000be60a457b48, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/AssetBundle/UnityDepthImageCardContent.prefab
+Dependencies: []
