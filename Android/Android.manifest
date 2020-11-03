@@ -1,13 +1,10 @@
 ManifestFileVersion: 0
-CRC: 2968972645
+CRC: 2499002011
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: unityassetcardcontent
-      Dependencies: {}
-    Info_1:
       Name: unitydepthimagecardcontent
       Dependencies: {}
-    Info_2:
+    Info_1:
       Name: unitysnowballcardcontent
       Dependencies: {}
