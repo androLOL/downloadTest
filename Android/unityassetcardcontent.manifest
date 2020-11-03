@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 1158113849
+CRC: 4022240276
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48e4f4040256280a4df568439bf309a0
+    Hash: 812dd23e0d10c3df29078bf1b211caa9
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 2f58ee7bdc4c1fbf75f1f421c7f95efd
+    Hash: f37f9c560cab82be7b6a3e5b9385eb7a
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -15,18 +15,16 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 21
   Script: {instanceID: 0}
-- Class: 28
-  Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: e4b5c913a459f074db000be60a457b48, type: 3}
+  Script: {fileID: 11500000, guid: 9aabdedf037aada48bba84333cf31ec5, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 212
   Script: {instanceID: 0}
-- Class: 213
-  Script: {instanceID: 0}
 Assets:
-- Assets/CardModule/Card/UnityDepthImageCardContent/UnityDepthImageCardContent.prefab
+- Assets/AssetBundle/UnityAssetCardContent.prefab
 Dependencies: []
